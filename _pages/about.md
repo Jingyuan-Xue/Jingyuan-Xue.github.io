@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-nav: true
+nav: false
 nav_order: 1
 subtitle: >
   <a href="https://www.unsw.edu.au">UNSW Sydney</a> ·
@@ -11,7 +11,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: false
   more_info: >
     <p>Sydney, Australia</p>
