@@ -1,0 +1,114 @@
+cv:
+  name: Jingyuan Xue
+  label: LLM Engineer & Full-Stack Developer
+  email: xuejingyuan.cn@gmail.com
+  location: Sydney, Australia
+  website: https://jingyuan-xue.github.io
+  image: ""
+  summary: LLM application developer focused on retrieval-augmented generation, HybridRAG systems, fine-tuning workflows, and full-stack AI products.
+
+  social_networks:
+    - network: GitHub
+      username: Jingyuan-Xue
+    - network: LinkedIn
+      username: jingyuan-xue
+
+  address:
+    city: Sydney
+    countryCode: AU
+
+  sections:
+    Education:
+      - institution: Macquarie University
+        location: Sydney, Australia
+        area: Research Master's
+        studyType: Research Master's
+        start_date: 2026-08
+        end_date: 2028-06
+        highlights:
+          - Expected completion June 2028.
+
+      - institution: UNSW Sydney
+        location: Sydney, Australia
+        area: Information Technology
+        studyType: Master of Information Technology
+        start_date: 2024-02
+        end_date: 2026-02
+
+      - institution: Heilongjiang University
+        location: Harbin, China
+        area: Automation
+        studyType: Bachelor of Engineering
+        start_date: 2017-09
+        end_date: 2021-06
+
+    Experience:
+      - company: CitiXP
+        position: Full Stack Engineer
+        location: Sydney, Australia
+        start_date: 2025-09
+        end_date: 2025-12
+        highlights:
+          - Built and maintained multi-platform product features across web and mobile surfaces.
+          - Unified OAuth authentication flows and supported app release workflows.
+          - Migrated CDN infrastructure, reducing cost by 65%, TTFB by 30%, and LCP by 20%.
+
+      - company: Laikon Biotech
+        position: LLM Application Development Intern
+        location: Sydney, Australia
+        start_date: 2025-08
+        end_date: 2025-09
+        highlights:
+          - Built data governance pipelines for LLM application development workflows.
+          - Fine-tuned Qwen3-8B with QLoRA, reducing VRAM usage by 74%.
+          - Developed an evaluation framework that reached BERTScore 0.6812.
+
+    Skills:
+      - name: Languages
+        keywords:
+          - Python
+          - TypeScript
+          - JavaScript
+      - name: ML / AI
+        keywords:
+          - PyTorch
+          - Transformers
+          - Qwen3
+          - ms-swift
+          - FastText
+      - name: Frontend
+        keywords:
+          - React
+          - React Native
+      - name: Backend
+        keywords:
+          - FastAPI
+          - Node.js
+      - name: Databases
+        keywords:
+          - PostgreSQL
+          - Neo4j
+          - Qdrant
+      - name: Tools
+        keywords:
+          - Docker Compose
+          - Prisma
+          - MinHash LSH
+          - ReAct
+          - MCP
+
+    Projects:
+      - name: FinGraphRAG
+        url: https://github.com/Jingyuan-Xue/FinGraphRAG
+        summary: Portfolio risk and market analysis prototype using HybridRAG with Qdrant vector search and Neo4j knowledge graphs.
+        highlights:
+          - Ingests SEC filings, portfolio data, and news events into vector and graph indexes.
+          - Routes queries across semantic search, graph expansion, and exposure calculation.
+          - Built with Python, FastAPI, React, Qdrant, Neo4j, and Docker Compose.
+
+      - name: LLM Agent & Tool-Enhanced Reasoning
+        summary: Multi-task reasoning framework with reranking, self-reflection, and ReAct-style MCP tool calls.
+        highlights:
+          - Supports graph shortest path, MMLU-Medicine QA, and InfoBench information extraction tasks.
+          - Uses 50-candidate reranking with log-prob, reward model, PairRM, MBR, and related scoring mechanisms.
+          - Deployed as an OpenAI Completions API-compatible service using Python, PyTorch, Transformers, and Qwen3.
