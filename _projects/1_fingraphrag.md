@@ -2,7 +2,6 @@
 layout: page
 title: FinGraphRAG
 description: Portfolio Risk & Market Analysis using GraphRAG with Qdrant + Neo4j
-img: assets/img/fingraphrag.png
 importance: 1
 category: AI / ML
 github: https://github.com/Jingyuan-Xue/FinGraphRAG
@@ -37,5 +36,3 @@ Python, FastAPI, React, Qdrant, Neo4j, and Docker Compose.
 ## Result
 
 The result is a containerized full-stack prototype with streaming query support and an interface for exploring financial risk signals. The project demonstrates how graph-aware retrieval can make portfolio analysis more explainable than vector search alone.
-
-[View repository](https://github.com/Jingyuan-Xue/FinGraphRAG)

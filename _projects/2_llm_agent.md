@@ -1,8 +1,7 @@
 ---
 layout: page
-title: LLM Agent & Tool-Enhanced Reasoning
+title: "LLM Agent & Tool-Enhanced Reasoning"
 description: Multi-task reasoning framework with reranking, self-reflection, and MCP tool calls
-img: assets/img/llm_agent.png
 importance: 2
 category: AI / ML
 ---
@@ -36,3 +35,7 @@ The service exposes an OpenAI Completions API-compatible interface and was desig
 ## Stack
 
 Python, PyTorch, Transformers, ReAct, MCP, and Qwen3.
+
+## Result
+
+The result is a reasoning framework that combines candidate generation, reranking, self-reflection, and tool-assisted verification behind an API-compatible service. It demonstrates how structured evaluation tasks can be improved by adding selection and verification layers around the base model rather than relying on a single generated answer.
