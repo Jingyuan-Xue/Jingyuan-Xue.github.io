@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Selected LLM, RAG, and full-stack engineering projects.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [AI / ML]
 horizontal: false
 ---

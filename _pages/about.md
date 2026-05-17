@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+nav: true
+nav_order: 1
 subtitle: >
   <a href="https://www.unsw.edu.au">UNSW Sydney</a> ·
   <a href="https://www.mq.edu.au">Macquarie University</a> ·
