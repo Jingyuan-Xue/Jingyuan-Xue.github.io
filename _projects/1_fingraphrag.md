@@ -2,6 +2,7 @@
 layout: page
 title: FinGraphRAG
 description: Portfolio Risk & Market Analysis using GraphRAG with Qdrant + Neo4j
+img: assets/img/fingraphrag.png
 importance: 1
 category: AI / ML
 github: https://github.com/Jingyuan-Xue/FinGraphRAG

@@ -2,6 +2,7 @@
 layout: page
 title: "LLM Agent & Tool-Enhanced Reasoning"
 description: Multi-task reasoning framework with reranking, self-reflection, and MCP tool calls
+img: assets/img/llm_agent.png
 importance: 2
 category: AI / ML
 ---
