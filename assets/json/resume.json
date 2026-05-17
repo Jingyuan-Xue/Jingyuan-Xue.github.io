@@ -31,7 +31,7 @@
       "location": "Sydney, Australia",
       "startDate": "2025-08",
       "endDate": "2025-09",
-      "summary": "Developed LLM application infrastructure for domain-specific data processing, fine-tuning, and evaluation workflows.",
+      "summary": "Aug-Sep 2025. Developed LLM application infrastructure for domain-specific data processing, fine-tuning, and evaluation workflows.",
       "highlights": [
         "Built a data governance pipeline to support structured LLM application development workflows.",
         "Fine-tuned Qwen3-8B with QLoRA, reducing VRAM usage by 74% while preserving domain adaptation capability.",
@@ -44,7 +44,7 @@
       "location": "Sydney, Australia",
       "startDate": "2025-09",
       "endDate": "2025-12",
-      "summary": "Built and shipped cross-platform product features across web, mobile, authentication, release, and infrastructure workflows.",
+      "summary": "Sep-Dec 2025. Built and shipped cross-platform product features across web, mobile, authentication, release, and infrastructure workflows.",
       "highlights": [
         "Developed multi-platform features across web and mobile product surfaces.",
         "Unified OAuth authentication flows and supported production app release workflows.",
@@ -57,7 +57,7 @@
     {
       "institution": "Macquarie University",
       "location": "Sydney, Australia",
-      "area": "Research Master's",
+      "area": "Artificial Intelligence",
       "studyType": "Research Master's",
       "startDate": "2026-08",
       "endDate": "2028-06",
@@ -69,7 +69,7 @@
       "institution": "UNSW Sydney",
       "location": "Sydney, Australia",
       "url": "https://www.unsw.edu.au",
-      "area": "Information Technology",
+      "area": "Artificial Intelligence and Data Science",
       "studyType": "Master of Information Technology",
       "startDate": "2024-02",
       "endDate": "2026-02",
@@ -144,9 +144,8 @@
   "projects": [
     {
       "name": "FinGraphRAG",
-      "description": "Portfolio Risk & Market Analysis using GraphRAG with Qdrant + Neo4j",
       "url": "https://github.com/Jingyuan-Xue/FinGraphRAG",
-      "summary": "Full-stack portfolio risk and market analysis prototype using HybridRAG with Qdrant vector search and Neo4j knowledge graphs.",
+      "summary": "Portfolio risk and market analysis prototype using GraphRAG with Qdrant vector search and Neo4j knowledge graphs.",
       "highlights": [
         "Modeled financial relationships that are difficult for traditional RAG to capture through single-hop retrieval.",
         "Built a data pipeline for SEC filings, portfolio data, and news events with automated chunking plus vector and graph indexing.",
@@ -156,7 +155,6 @@
     },
     {
       "name": "LLM Agent & Tool-Enhanced Reasoning",
-      "description": "Multi-task reasoning framework with reranking, self-reflection, and MCP tool calls",
       "summary": "Reasoning framework for graph shortest path, MMLU-Medicine QA, and InfoBench information extraction with reranking, self-reflection, and ReAct-style tool calls.",
       "highlights": [
         "Implemented 50-candidate reranking with log-probability, reward model, PairRM, MBR, and related scoring mechanisms.",
